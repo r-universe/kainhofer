@@ -7,4 +7,4 @@
 	url = https://github.com/cran/LifeInsuranceContracts
 [submodule "MortalityTables"]
 	path = MortalityTables
-	url = https://github.com/cran/MortalityTables
+	url = https://github.com/kainhofer/mortalitytables
