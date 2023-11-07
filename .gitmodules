@@ -5,6 +5,9 @@
 [submodule "LifeInsuranceContracts"]
 	path = LifeInsuranceContracts
 	url = https://github.com/cran/LifeInsuranceContracts
+[submodule "LifeInsureR"]
+	path = LifeInsureR
+	url = https://github.com/kainhofer/lifeinsurer
 [submodule "MortalityTables"]
 	path = MortalityTables
 	url = https://github.com/kainhofer/mortalitytables
